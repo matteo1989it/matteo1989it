@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 ![Matteo's github stats](https://github-readme-stats.vercel.app/api?username=matteo1989it&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+<a href="https://github.com/matteo1989it/ExplainableAI">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteo1989it&repo=ExplainableAI" />
+</a>
+<a href="https://github.com/matteo1989it/Ansible">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteo1989it&repo=Ansible" />
+</a>
 <!--
 **matteo1989it/matteo1989it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
