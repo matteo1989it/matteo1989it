@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ![Matteo's github stats](https://github-readme-stats.vercel.app/api?username=matteo1989it&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<a href="https://github.com/matteo1989it/Kubeflow_Pipelines">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteo1989it&repo=Kubeflow_Pipelines&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/matteo1989it/Kubeflow_Pipeline">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteo1989it&repo=Kubeflow_Pipeline&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/matteo1989it/Satellite_Docking">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteo1989it&repo=Satellite_Docking&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
